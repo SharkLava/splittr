@@ -8,4 +8,5 @@ and this project adheres to the
 
 ## Unreleased
 
-## 0.1.0.0 - YYYY-MM-DD
+## 0.1.0.0 - 2023-06-01
+- Initial Release with CSV support
